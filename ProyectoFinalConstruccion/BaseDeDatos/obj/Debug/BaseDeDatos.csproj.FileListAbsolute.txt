@@ -1,0 +1,7 @@
+C:\Users\Kevin\source\repos\ProyectoFinalConstruccion\BaseDeDatos\bin\Debug\BaseDeDatos.dll
+C:\Users\Kevin\source\repos\ProyectoFinalConstruccion\BaseDeDatos\bin\Debug\BaseDeDatos.pdb
+C:\Users\Kevin\source\repos\ProyectoFinalConstruccion\BaseDeDatos\obj\Debug\BaseDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\ProyectoFinalConstruccion\BaseDeDatos\obj\Debug\BaseDeDatos.dll
+C:\Users\Kevin\source\repos\ProyectoFinalConstruccion\BaseDeDatos\obj\Debug\BaseDeDatos.pdb
+C:\Users\Kevin\source\repos\ProyectoFinalConstruccion\BaseDeDatos\bin\Debug\BaseDeDatos.dll.CodeAnalysisLog.xml
+C:\Users\Kevin\source\repos\ProyectoFinalConstruccion\BaseDeDatos\bin\Debug\BaseDeDatos.dll.lastcodeanalysissucceeded
